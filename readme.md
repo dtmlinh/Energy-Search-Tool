@@ -5,12 +5,12 @@ This is a search engine of the energy consumption trends in U.S. states that out
 
 Contributors: L. Dinh, E. Son, E. Zhang
 
-![alt-text](image/django_interface.png)
-
 
 ## Usage
 ## Online Access
 The program was packaged and uploaded online to be accessed [here](https://us-energy-consumption.herokuapp.com/).
+![alt-text](image/state_energy_search.gif)
+
 
 ## Local Access
 ### Activating your environment
