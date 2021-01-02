@@ -10,6 +10,11 @@ Contributors: L. Dinh, E. Son, E. Zhang
 
 ## Usage
 
+### Online Access
+
+The program was packaged and uploaded online to be accessed [here](https://us-energy-consumption.herokuapp.com/).
+
+### Local Access
 ### Activating your environment
 
 To install the required packages in a new environment:
