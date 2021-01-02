@@ -9,12 +9,10 @@ Contributors: L. Dinh, E. Son, E. Zhang
 
 
 ## Usage
-
-### Online Access
-
+## Online Access
 The program was packaged and uploaded online to be accessed [here](https://us-energy-consumption.herokuapp.com/).
 
-### Local Access
+## Local Access
 ### Activating your environment
 
 To install the required packages in a new environment:
@@ -56,4 +54,3 @@ Following the standard structure of a Django application, there are 3 main folde
     - `search` folder contains html template and codes to display the correct visualizations selected by the users.
     - `static` folder contains css style and graphs generated from our data visualization scripts (to be displayed as static components in css structure).
     - `ui` folder contains Django default setup and scripts.
-
