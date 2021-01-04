@@ -5,6 +5,7 @@ This is a search engine of the energy consumption trends in U.S. states that out
 
 Contributors: Linh Dinh, Eric Son, Emily Zhang
 
+Frameworks/tools/packages used: Django, Webscraping (beautifulsoup4), API Requests, sqlite3, Heroku 
 
 ## Usage
 ## Online Access
